@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .Net Technologies<br>🌱 I’m currently learning AWS<br>👯 I’m looking to collaborate on .Net and AWS, Cloud Migration<br>🤔 I’m looking for help with learning AWS, and .Net Technologies<br>💬 Ask me about C# and .Net<br>⚡ Fun fact: I'm curious and always ready to learn
+🔭 I’m currently working on .Net Technologies<br>🌱 I’m currently learning AWS<br>👯 I’m looking to collaborate on .Net and AWS, Cloud Migration Projects<br>🤔 I’m looking for help with learning AWS, and .Net Technologies<br>💬 Ask me about C# and .Net<br>⚡ Fun fact: I'm passionate and excited to learn.
 
 
 ## 🌐 Socials:
